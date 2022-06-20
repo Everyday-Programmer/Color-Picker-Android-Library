@@ -13,6 +13,6 @@ allprojects {
 # Step 2. Add the dependency
 ```
 dependencies {
-	        implementation 'com.github.Everyday-Programmer:Color-Picker-Android-Library:Tag'
-	}
+	implementation 'com.github.Everyday-Programmer:Color-Picker-Android-Library:Tag'
+}
 ```
